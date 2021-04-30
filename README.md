@@ -1,6 +1,6 @@
 # Taller 4 (Laboratorio): 
 ##Integrantes: 
-*Joel Romero, Gerald Jaramillo, Jhordan Bustamante
+* Joel Romero, Gerald Jaramillo, Jhordan Bustamante
 ## Creación de programas usando el concepto de constructores
 
 
